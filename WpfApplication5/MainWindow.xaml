@@ -11,6 +11,7 @@
         <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="100" Margin="229,0,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
         <Ellipse Fill="Green" HorizontalAlignment="Left" Height="100" Margin="294,0,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
         <Ellipse Fill="Blue" HorizontalAlignment="Left" Height="100" Margin="366,34,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Ellipse Fill="Brown" HorizontalAlignment="Left" Height="100" Margin="394,100,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
 
     </Grid>
 </Window>
